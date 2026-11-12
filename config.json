@@ -1,7 +1,7 @@
 {
-  "BOT_TOKEN": "your-bot-token",
-  "ADMIN_ID": "tg-user-id",
+  "BOT_TOKEN": "9060499018:AAEc3_Mv8Hd8ZoY2Vx_QSQ4qA3_hlVMAQ8k",
+  "ADMIN_ID": "9153167874",
   "PORT": 8080,
-  "ADMIN_CODE": "123456",
-  "ADMIN_USERNAME": "zidhuxd"
+  "ADMIN_CODE": "pss-admin",
+  "ADMIN_USERNAME": "admin"
 }
